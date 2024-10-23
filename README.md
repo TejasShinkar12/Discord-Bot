@@ -79,6 +79,6 @@ This project aims to provide a seamless way for a group of people to access valu
 
 ##  License
 
-This project is protected under the [SELECT-A-LICENSE](https://choosealicense.com/licenses) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
+This project is protected under the [MIT](./LICENSE) License. For more details, refer to the [LICENSE](https://choosealicense.com/licenses/) file.
 
 ---
