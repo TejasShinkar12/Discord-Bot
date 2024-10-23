@@ -26,14 +26,6 @@
 
 <br>
 
-<details><summary>Table of Contents</summary>
-
-- [ Overview](#-overview)
-- [ Features](#-features)
-- [ Repository Structure](#-repository-structure)
-- [ License](#-license)
-
-</details>
 <hr>
 
 ##  Overview
